@@ -1,3 +1,5 @@
 print("Hello world");
 print("Hello everybody");
-print("код обновлен");
+print("code upgrade");
+print("hello my friends");
+print("glad to see you");
